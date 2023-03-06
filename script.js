@@ -27,7 +27,7 @@ console.log(array2.length);
 
 // THIRD 
 
-let array3 =[1, 2, 3, 4, 5];
+let array3 = [1, 2, 3, 4, 5];
 
 array3.splice(3, 0, "a");
 array3.splice(4, 0, "b");
